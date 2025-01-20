@@ -1,0 +1,10 @@
+{
+  "chat_id": "YOUR CHAT ID",
+  "login": "YOUR LOGIN, YOU MUST SPECIFY THE HANDLE, NOT EMAIL",
+  "password": "YOUR PASSWORD",
+  "number_proxy_server": "YOUR PROXY SERVER,"
+  "interval_requests": "YOUR INTERVAL REQUESTS (seconds, int)",
+  "path_log_file": "YOUR PATH TO LOG FILE",
+  "name_table": "NAME YOUR TABLE DATABASE",
+  "path_to_db": "PATH YOUR MAIN DATABASE"
+}
